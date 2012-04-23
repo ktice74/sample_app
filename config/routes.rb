@@ -1,5 +1,10 @@
 SampleApp::Application.routes.draw do
   resources :users
+<<<<<<< HEAD
+=======
+
+  root to: 'static_pages#home'
+>>>>>>> sign-up
 
   root to: 'static_pages#home'
   
