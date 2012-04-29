@@ -116,6 +116,7 @@ input, textarea, select, .uneditable-input {
   height: auto;
   margin-bottom: 15px;
   @include box_sizing;
+}
 
   #error_explanation {
     color: #f00;
@@ -183,4 +184,3 @@ input, textarea, select, .uneditable-input {
       }
     }
   }
-}
